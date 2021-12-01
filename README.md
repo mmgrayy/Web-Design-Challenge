@@ -30,4 +30,4 @@ Is responsive (using media queries).
 Finally, the website must be deployed to GitHub pages.
 
 #Link to Website:
-https://mmgrayy.github.io/Web-Design-Challenge/ 
+https://mmgrayy.github.io/Web-Design-Challenge/
