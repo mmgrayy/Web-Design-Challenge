@@ -1,0 +1,118 @@
+.navbar-light .navbar-brand 
+  {
+    color:sandybrown;
+  }
+  
+  .navbar 
+  {
+    background-color:sandybrown;
+    width: 100%;
+    padding: 0;
+  }
+  
+  .navbar-brand 
+  {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Times, serif;
+    font-size: 35px;
+    font-weight:bold;
+    background-color: rgb(219, 97, 15);
+    padding:25px;
+    margin-left: 10%;
+  }
+  
+  .navbar-collapse 
+  {
+    position: absolute;
+    right: 5%;
+    font-size: small;
+  }
+  
+  .nav-item 
+  {
+    font-weight: bolder;
+  }
+  
+  .content 
+  {
+    width:90%;
+    margin: 20px auto;
+    padding:1em;
+  }
+    
+  .buttons 
+  {
+    margin-bottom: .5em;
+  }
+  
+  body 
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Times, serif;
+    font-size: 1.1em;
+    background-color:rgb(243, 171, 211)e;
+   
+  }
+  
+  .text-left 
+  {
+    text-align: left;
+    color: rgb(219, 97, 15);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Times, serif;
+    font-weight:unset;
+  }
+  
+  .text-center {
+    color: rgb(219, 97, 15);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Times, serif;;
+    font-weight: bolder;
+  }
+  
+  p:not(.intro) {
+    text-align: justify;
+    color:rgb(219, 97, 15);
+  }
+  
+  .thumbnail {
+    width:50%;
+  }
+  
+  .main-image {      
+      margin-left: auto;
+      margin-right: auto;
+      width: 40%;
+      float: left;
+  }
+  
+  .col-md-8 {
+    background-color:sandybrown);
+  }
+  
+  .col-sm-12,.col-md-4 {
+    background-color:sandybrown;
+  }
+  
+  div.col-sm-12.col-md-12 div.col-lg-6.col-sm-12 img {
+    width: 100%;
+  }
+  
+  .imagetiles {
+    background-color:rgb(219, 97, 15);
+  }
+  div.imagetiles div.col-lg-6.col-sm-12 img {
+    width: 100%;
+  }
+  
+  div.col-sm-12.col-md-12 p {
+    color:tomato;
+    font-size: medium;
+  }
+  
+  .panel-body:hover {
+    border-color: blueviolet;
+    border size: 50px;
+  }
+  
+  @include media-breakpoint-down(md) {
+    .col-md-8 {
+      display: block;
+    }
+  }
