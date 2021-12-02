@@ -32,4 +32,4 @@ Finally, the website must be deployed to GitHub pages.
 #Link to Website:
 https://mmgrayy.github.io/Web-Design-Challenge/
 
-Bonus:  https://mmgrayy.github.io/Bonus-Web-Design-Challenge/ 
+Bonus:  https://mmgrayy.github.io/Bonus-Web-Challenge/
